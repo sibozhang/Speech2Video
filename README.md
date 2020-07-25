@@ -8,7 +8,7 @@ Please cite our paper in your publications if our dataset is used in your resear
 
 Personalized Speech2Video with 3D Skeleton Regularization and Expressive Body Poses
 
-Miao Liao, Sibo Zhang, Peng Wang, Hao Zhu, Ruigang Yang.  ECCV 2020. [PDF](https://arxiv.org/pdf/2007.09198.pdf)
+Miao Liao, Sibo Zhang, Peng Wang, Hao Zhu, Ruigang Yang. [PDF](https://arxiv.org/pdf/2007.09198.pdf)
 
 ```
 @article{liao2020personalized,
