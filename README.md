@@ -1,14 +1,14 @@
 # Speech2Video
-This is code for "Personalized Speech2Video with 3D Skeleton Regularization and Expressive Body Poses".
+This is code for "Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses". ACCV 2020.
 
 ## Introduction
 
 ## Citation
 Please cite our paper in your publications if our dataset is used in your research.
 
-Personalized Speech2Video with 3D Skeleton Regularization and Expressive Body Poses
+Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses
 
-Miao Liao, Sibo Zhang, Peng Wang, Hao Zhu, Ruigang Yang. [PDF](https://arxiv.org/pdf/2007.09198.pdf)
+Sibo Zhang, Miao Liao, Peng Wang, Hao Zhu, Xinxin Zuo, Ruigang Yang. [PDF](https://arxiv.org/pdf/2007.09198.pdf)
 
 ```
 @article{liao2020personalized,
