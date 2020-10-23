@@ -11,7 +11,7 @@ Please cite our paper in your publications if our dataset is used in your resear
 
 Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses
 
-Miao Liao*, Sibo Zhang*, Peng Wang, Hao Zhu, Xinxin Zuo, Ruigang Yang. [PDF](https://arxiv.org/pdf/2007.09198.pdf)[Result Video](https://youtu.be/MUlRtgbGeUs)
+Miao Liao*, Sibo Zhang*, Peng Wang, Hao Zhu, Xinxin Zuo, Ruigang Yang. [PDF](https://arxiv.org/pdf/2007.09198.pdf) [Result Video](https://youtu.be/MUlRtgbGeUs)
 [1 min Spotlight](https://youtu.be/04oqf7kDzXo) [10 min Presentation](https://youtu.be/E8Dvef0Z4sw)
 ```
 @article{liao2020personalized,
