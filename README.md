@@ -1,5 +1,5 @@
 # Speech2Video
-This is code for "Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses". ACCV 2020. [Project Page](https://sites.google.com/view/sibozhang/Speech2Video) 
+This is code for "Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses". ACCV 2020. [Project Page](https://sites.google.com/view/sibozhang/speech2Video) 
 
 ![](./[ACCV_2020]_Speech2Video_Synthesis_with_3D_Skeleton_Regularization_and_Expressive_Body_Poses_--_Demo.gif)
 
